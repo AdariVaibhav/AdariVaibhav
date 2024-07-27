@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AdariVaibhav
-- 👀 I’m interested in learning something new
-- 🌱 I’m currently learning DSA with java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, you can drop a mail to adarivaibhavmay20@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am homophobic / transphobic 😄
+👋 Hi, I’m @AdariVaibhav
+👀 I’m interested in learning something new
+🌱 I’m currently studying DSA with Java
+💞 I’m looking to collaborate on...
+📫 You can reach me via email at adarivaibhavmay20@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m homophobic / transphobic 😄
 
 <!---
 AdariVaibhav/AdariVaibhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
